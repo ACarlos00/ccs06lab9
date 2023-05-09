@@ -1,0 +1,17 @@
+{
+    "name": "ACarlos00/ccs06_lab9",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anilov Carlos",
+            "email": "carlos.anilovbriant@auf.edu.ph"
+        }
+    ]
+}
